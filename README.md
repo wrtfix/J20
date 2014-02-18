@@ -1,4 +1,4 @@
-PruebaWiki
-==========
+J20 - Sistema de gestion de estadistica
+=======================================
 
-Es una prueba para importar wiki de git
+El sistema de gestion de estadistica implementado para el bienestar del pueblo.
